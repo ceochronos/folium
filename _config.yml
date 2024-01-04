@@ -19,23 +19,27 @@ description: >- # this means to ignore newlines until "baseurl:"
   El Blog de Alejandro Gómez
 baseurl: "/folium" # the subpath of your site, e.g. /blog
 url: "https://ceochronos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:year/:month/:title:output_ext
+
 twitter_username: ceochronos
 github_username: ceochronos
 
 # Build settings
 markdown: kramdown
 theme: minima
+include: ['_pages']
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE.md
