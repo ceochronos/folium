@@ -17,7 +17,7 @@ title: Folium
 email: az-dev@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   El Blog de Alejandro Gómez
-baseurl: "/folium" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ceochronos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:title:output_ext
 
