@@ -24,12 +24,28 @@ permalink: /:year/:month/:title:output_ext
 twitter_username: ceochronos
 github_username: ceochronos
 
+twitter:
+  username: ceochronos
+  card: summary
+
+social:
+  name: Alejandro Gómez
+  links:
+    - https://twitter.com/ceochronos
+    - https://github.com/ceochronos
+    - https://www.facebook.com/ceochronos
+
 # Build settings
 markdown: kramdown
 theme: minima
 include: ['_pages']
 plugins:
   - jekyll-feed
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
