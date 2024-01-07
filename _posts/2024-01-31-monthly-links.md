@@ -3,12 +3,18 @@ layout: post
 title: Enlaces Mensuales
 slug: enlaces-mensuales
 date: 2024-01-31 22:00:00 -0600
-categories: [links, bookmarks]
+categories: [links]
 ---
 
 Páginas que llamaron mi atención.
 
-+ [How to Use a Decision Table Methodology to Analyze Complex Conditional Actions Requirements in Software Development](https://www.methodsandtools.com/archive/archive.php?id=39) via [Decision Table Based Methodology for Software Development (2004)](https://news.ycombinator.com/item?id=38821708)
++ [How to Use a Decision Table Methodology to Analyze Complex Conditional Actions Requirements in Software Development](https://www.methodsandtools.com/archive/archive.php?id=39)
+
+  <div class="btn-group mb-3" role="group">
+    <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://web.archive.org/web/20240104054055/https://www.methodsandtools.com/archive/archive.php?id=39"><i class="fa-solid fa-box"></i> webarchive</a>
+    <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://www.methodsandtools.com/PDF/mt200403.pdf"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+    <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://news.ycombinator.com/item?id=38821708"><i class="fa-solid fa-newspaper"></i> Vía</a>
+  </div>
 
   > A decision table is a two-dimensional matrix with one row for each possible
   action and one row for each relevant condition and one column for each
@@ -26,7 +32,12 @@ Páginas que llamaron mi atención.
   the number of conditions rise. Fortunately, it is unusual that every
   combination of conditions results in a different action.
 
-+ [Paper Sizes and Formats Explained: The Difference Between A4 and Letter](https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained) via [Paper Sizes and Formats](https://news.ycombinator.com/item?id=38875288)
++ [Paper Sizes and Formats Explained: The Difference Between A4 and Letter](https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained)
+
+  <div class="btn-group mb-3" role="group">
+    <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://web.archive.org/web/20240107015611/https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained"><i class="fa-solid fa-box"></i> webarchive</a>
+    <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://news.ycombinator.com/item?id=38875288"><i class="fa-solid fa-newspaper"></i> Vía</a>
+  </div>
 
   > ### ISO 216
 
@@ -38,7 +49,7 @@ Páginas que llamaron mi atención.
   series is the A4 format. All paper sizes of this series have a name that
   consists of an A followed by a number. The larger that number, the smaller the
   paper.
-  
+
   > ### North American Sizes
 
   > The North American paper sizes are based on traditional formats with
@@ -50,3 +61,10 @@ Páginas que llamaron mi atención.
   tabloids or smaller sized newspapers. Very little is known about the origin of
   the traditional American paper formats.
 
++ [Developer Productivity for Humans, Part 7: Software Quality](https://ieeexplore.ieee.org/document/10372494)
+
+  <div class="btn-group mb-3" role="group">
+    <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://web.archive.org/web/20231230100436/https://ieeexplore.ieee.org/document/10372494"><i class="fa-solid fa-box"></i> webarchive</a>
+    <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10372494"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+    <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://news.ycombinator.com/item?id=38791489"><i class="fa-solid fa-newspaper"></i> Vía</a>
+  </div>
