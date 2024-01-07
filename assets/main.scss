@@ -7,3 +7,18 @@
 @media only screen and (min-width : 992px) {
   .container-sm { width: 720px; }
 }
+
+header a#blog-header {
+    color: black;
+}
+header a#blog-header:hover {
+    text-decoration: none;
+}
+
+header a.blog-menu {
+    color: black;
+    text-decoration: none;
+}
+header a.blog-menu:hover {
+    text-decoration: none;
+}
