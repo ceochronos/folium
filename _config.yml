@@ -35,6 +35,9 @@ social:
     - https://github.com/ceochronos
     - https://www.facebook.com/ceochronos
 
+disqus:
+  shortname: ceochronos-github-io
+
 # Build settings
 markdown: kramdown
 theme: minima
