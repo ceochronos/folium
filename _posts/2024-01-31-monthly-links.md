@@ -68,3 +68,19 @@ Páginas que llamaron mi atención.
     <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10372494"><i class="fa-solid fa-file-pdf"></i> PDF</a>
     <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://news.ycombinator.com/item?id=38791489"><i class="fa-solid fa-newspaper"></i> Vía</a>
   </div>
+
++ [We Will Rock You (fast version)](https://www.youtube.com/watch?v=LGBUJL5uS_c)
+
+  Una versión alterna de la canción que todos conocemos. Parece que
+  era habitual que la tocaran en sus presentaciones.
+
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LGBUJL5uS_c?si=aqJYUKBCB4uITp4X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
++ [Math Crossword](https://scientific.place/math-crossword/)
+
+  <div class="btn-group mb-3" role="group">
+    <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://www.microsiervos.com/archivo/juegos-y-diversion/crucigrama-matematico-aritmetica-basica-arrastrar-soltar.html"><i class="fa-solid fa-newspaper"></i> Vía</a>
+  </div>
+
+  Parece un juego de operaciones aritmeticas bastante sencillas pero bastante
+  relajante para resolver.
