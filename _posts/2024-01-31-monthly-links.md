@@ -84,3 +84,16 @@ Páginas que llamaron mi atención.
 
   Parece un juego de operaciones aritmeticas bastante sencillas pero bastante
   relajante para resolver.
+
++ [A historic view of the practice to delay releasing Open Source software: OSI’s report](https://blog.opensource.org/a-historic-view-of-the-practice-to-delay-releasing-open-source-software-osis-report/)
+
+  <div class="btn-group mb-3" role="group">
+    <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://web.archive.org/web/20240114171429/https://blog.opensource.org/a-historic-view-of-the-practice-to-delay-releasing-open-source-software-osis-report/"><i class="fa-solid fa-box"></i> webarchive</a>
+    <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://opensource.org/wp-content/uploads/2024/01/Delayed_Open_Source_Publication.pdf"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+    <a class="btn btn-outline-dark btn-sm" target="_blank" href="https://lobste.rs/s/lyj9k0/historic_view_practice_delay_releasing"><i class="fa-solid fa-newspaper"></i> Vía</a>
+  </div>
+
+  > Delayed Open Source Publication (DOSP) is the practice of distributing or
+publicly deploying software under a proprietary license at first, then
+subsequently and in a planned fashion publishing that software’s source code
+under an Open Source license.
